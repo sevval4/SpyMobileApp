@@ -2,6 +2,8 @@
 
 Welcome to **Spy Game**, an engaging and interactive word-guessing game designed to challenge players in a fun and creative way! This Android application is built with Kotlin and showcases an intuitive user interface, designed with a strong focus on user experience.
 
+**Coming Soon to the Play Store!** Stay tuned for the release!
+
 ## Features
 
 - **Extensive Word Database**: With a rich database of **500 unique words** stored in Firebase Firestore, players will never run out of options to guess from.
