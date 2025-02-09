@@ -1,25 +1,46 @@
-# Spy Game
+# Ace of Spies - Casusluk ve Strateji Oyunu
 
-Welcome to **Spy Game**, an engaging and interactive word-guessing game designed to challenge players in a fun and creative way! This Android application is built with Kotlin and showcases an intuitive user interface, designed with a strong focus on user experience.
+Ace of Spies, arkadaşlarınızla birlikte oynayabileceğiniz eğlenceli ve stratejik bir casus oyunudur. Oyuncular arasında bir casus bulunur ve diğer oyuncular doğru kelimeyi bilirken, casus bu kelimeyi bilmez. Amaç, casusu bulmak ya da casus olarak yakalanmadan oyunu kazanmaktır!
 
-**Coming Soon to the Play Store!** Stay tuned for the release!
+## 📌 Özellikler
 
-## Features
+- 🕵️ Casus ol veya casusu bul!
+- 🎭 Strateji ve blöf gerektiren eğlenceli oyun mekaniği
+- 👥 3-10 oyuncuyla oynama imkânı
+- ⚡ Kolay kurulum ve hızlı oyun akışı
+- 🤣 Arkadaşlarla eğlenceli sohbetler ve kahkahalar
 
-- **Extensive Word Database**: With a rich database of **500 unique words** stored in Firebase Firestore, players will never run out of options to guess from.
-- **Dynamic Category Selection**: Players can choose from **6 distinct categories**, adding variety and excitement to the gameplay experience.
-- **User-Friendly Design**: The application features a clean and attractive design, ensuring easy navigation and an enjoyable user experience.
-- **Custom Timer**: A built-in timer allows players to enhance the challenge, adding an element of urgency to the game.
+## 🛠 Kullanılan Teknolojiler
 
-## Technology Stack
+- **Kotlin** - Modern Android geliştirme dili
+- **Jetpack Navigation** - Uygulama içinde gezinme yönetimi
+- **Firebase** - Gerçek zamanlı veri yönetimi ve kullanıcı kimlik doğrulama
 
-- **Kotlin**: Developed using Kotlin, leveraging its modern programming features.
-- **Firebase**: Utilizes Firebase Firestore for efficient data storage and retrieval.
-- **Android SDK**: Built for Android devices, ensuring compatibility and performance.
+## 📜 Nasıl Oynanır?
 
-## User Experience
+1. Oyuna başladığınızda, casus dışında her oyuncuya bir kelime verilir.
+2. Oyuncular sırayla birbirlerine sorular sorar ve casusu bulmaya çalışır.
+3. Casus, kelimeyi bilmediği için sorulara doğru yanıtlar vermeye çalışırken dikkatli olmalıdır.
+4. Oyuncular birbirlerinin cevaplarını dinleyerek casusu tespit etmeye çalışır.
+5. Oyun sonunda, tüm oyuncular oylama yaparak bir oyuncuyu eler.
+6. **Casus elenirse:**
+   - Casusun kelimeyi tahmin etme hakkı vardır.
+   - Eğer doğru tahmin ederse casus oyunu kazanır.
+   - Eğer yanlış tahmin ederse diğer oyuncular kazanır.
 
-Every aspect of the design has been carefully crafted with user experience in mind. From the layout of the buttons to the display of words, the interface is designed to be both functional and visually appealing. Players will find it easy to immerse themselves in the game, making it suitable for all ages.
+## 📥 İndirme
+Uygulamayı Google Play Store'dan indirebilirsiniz: [Ace of Spies - Play Store](https://play.google.com/store/apps/details?id=sevo.example.spygame)
 
-![image](https://github.com/user-attachments/assets/f1c9f627-cbd2-4c00-a8f9-709e119bbd8b)
+## 📷 Ekran Görüntüleri
+
+https://github.com/user-attachments/assets/2d66d3fc-5fff-42c9-b187-f46a83a07a69
+
+
+## 👨‍💻 Geliştirici
+- LinkedIn:((https://www.linkedin.com/in/sevval-celik-/))
+
+
+
+
+
 
