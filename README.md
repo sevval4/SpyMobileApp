@@ -33,7 +33,8 @@ Uygulamayı Google Play Store'dan indirebilirsiniz: [Ace of Spies - Play Store](
 
 ## 📷 Ekran Görüntüleri
 
-https://github.com/user-attachments/assets/2d66d3fc-5fff-42c9-b187-f46a83a07a69
+https://github.com/user-attachments/assets/7f98dc50-ff66-416e-be8d-cb30788468c8
+
 
 
 ## 👨‍💻 Geliştirici
